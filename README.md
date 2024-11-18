@@ -28,8 +28,3 @@ O projeto é composto por quatro classes principais:
 3. **AparelhoTelefonico**: Implementa as funcionalidades do telefone.
 4. **NavegadorInternet**: Implementa as funcionalidades do navegador.
 
-## Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
